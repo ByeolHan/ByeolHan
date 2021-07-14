@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ByeolHan
-- 👀 I’m interested in image detection, mobility data, Vehicle Ergonomics
+- 👀 I’m interested in mobility data, Vehicle Ergonomics
 - 🌱 I’m currently learning vehicle intelligence
 - 📫 How to reach me contacts to 414gkjg@kookmin.ac.kr
 
